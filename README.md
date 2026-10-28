@@ -307,6 +307,8 @@ Screenshots provide evidence of the resources and application running successful
 ![alt text](<screenshots/app deployment 2.png>)
 ![alt text](<screenshots/IAM-OIDC-Provider setup and IAM roles for ALB.png>)
 ![alt text](<screenshots/creating the ALB Load Balancer.png>)
+![alt text](<screenshots/after deleting the previous failed stack I created a new service account with a diferent name.png>)
+![alt text](<screenshots/deleted the old controller and reinstalled it and matching it to the new service account and the controoller was running it also created the ALB.png>)
 ![alt text](<app deployed/2048.png>)
 
 ## 🎥 Project Demo
