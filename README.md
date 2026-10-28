@@ -308,4 +308,9 @@ Screenshots provide evidence of the resources and application running successful
 ![alt text](<screenshots/IAM-OIDC-Provider setup and IAM roles for ALB.png>)
 ![alt text](<screenshots/creating the ALB Load Balancer.png>)
 ![alt text](<app deployed/2048.png>)
-<video controls src="app deployed/Clusters _ Elastic Kubernetes Service _ us-east-1 - 27 October 2026.mp4" title="Title"></video>
+
+## 🎥 Project Demo
+
+Watch the 2048 game running on Amazon EKS:
+
+[▶️ Watch the deployment demo](https://github.com/user-attachments/assets/00e326a7-b06f-43cb-936e-bde21b54aa53)
